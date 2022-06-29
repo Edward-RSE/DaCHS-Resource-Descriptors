@@ -1089,7 +1089,7 @@
 
   <data id="import">
     <sources>
-      <pattern>data/main/*.csv</pattern>
+      <pattern>data/*.csv</pattern>
     </sources>
     <csvGrammar />
     <make table="main">
