@@ -626,7 +626,7 @@
 	<data id="import">
 		<sources>
 			<pattern>
-				data/*.csv
+				data/main/*.csv
 			</pattern>
 		</sources>
 		<csvGrammar />
