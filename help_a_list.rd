@@ -625,9 +625,7 @@
 	</table>
 	<data id="import">
 		<sources>
-			<pattern>
-				data/main/*.csv
-			</pattern>
+			<pattern>data/main/*.csv</pattern>
 		</sources>
 		<csvGrammar />
 		<make table="main">
